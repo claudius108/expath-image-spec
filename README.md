@@ -1,1 +1,1 @@
-# expath-image-spec
+# EXPath Image Specification, see http://kuberam.ro/specs/expath/image/image.html.
